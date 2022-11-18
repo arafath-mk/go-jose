@@ -1,4 +1,4 @@
-module github.com/go-jose/go-jose/v3
+module github.com/arafath-mk/go-jose
 
 go 1.19
 

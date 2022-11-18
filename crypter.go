@@ -23,7 +23,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/go-jose/go-jose/v3/json"
+	"github.com/arafath-mk/go-jose/json"
 )
 
 // Encrypter represents an encrypter which produces an encrypted JWE object.

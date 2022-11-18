@@ -26,7 +26,7 @@ import (
 	"errors"
 	"fmt"
 
-	jose "github.com/go-jose/go-jose/v3"
+	jose "github.com/arafath-mk/go-jose"
 )
 
 // NewSigningKey generates a keypair for corresponding SignatureAlgorithm.

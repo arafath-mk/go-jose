@@ -29,7 +29,7 @@ import (
 	"io"
 	"math/big"
 
-	"github.com/go-jose/go-jose/v3"
+	"github.com/arafath-mk/go-jose"
 )
 
 // Opaque creates an OpaqueSigner from a "crypto".Signer

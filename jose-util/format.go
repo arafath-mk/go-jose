@@ -16,7 +16,7 @@
 
 package main
 
-import jose "github.com/go-jose/go-jose/v3"
+import jose "github.com/arafath-mk/go-jose"
 
 func expand() {
 	input := string(readInput(*inFile))
