@@ -2,7 +2,7 @@ module github.com/arafath-mk/go-jose/jose-util
 
 go 1.19
 
-replace github.com/arafath-mk/go-jose => ../
+// replace github.com/arafath-mk/go-jose => ../
 
 require (
 	github.com/arafath-mk/go-jose v0.0.0-20221118200450-c64549c084b5
