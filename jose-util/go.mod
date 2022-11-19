@@ -5,7 +5,7 @@ go 1.19
 replace github.com/arafath-mk/go-jose => ../
 
 require (
-	github.com/arafath-mk/go-jose v0.0.0-00010101000000-000000000000
+	github.com/arafath-mk/go-jose v0.0.0-20221118200450-c64549c084b5
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
 )
 
